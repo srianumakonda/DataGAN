@@ -1,0 +1,6 @@
+__pycache__/
+cityscapes_data/
+models/
+good run/
+samples_1x1/
+samples_8x8/
