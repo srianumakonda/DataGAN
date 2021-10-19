@@ -1,5 +1,4 @@
 # DataGAN: A way to train self-driving tech using synthetic data.
-Leveraging the use of Generative Adversarial Networks to help create synthetic data. Domain is currently in the use case of autonomous vehicles.
 
 Article: <a href="https://srianumakonda.medium.com/datagan-leveraging-synthetic-data-for-self-driving-vehicles-6e629968a567">https://srianumakonda.medium.com/datagan-leveraging-synthetic-data-for-self-driving-vehicles-6e629968a567</a>
 
