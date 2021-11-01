@@ -17,4 +17,4 @@ Interested to learn about this project? <a href="mailto:sri.anumakonda06@gmail.c
 
 Sample image:
 
-![alt text](sample.png)
+![alt text](sample.gif)
